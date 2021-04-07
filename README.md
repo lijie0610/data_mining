@@ -13,3 +13,15 @@
      通过数据对象之间的相似性来填补缺失值
 
 # 数据集
+## wine-reviews 葡萄酒数据集
+    wine表共含有10个字段
+    country：产出国
+    description：葡萄酒描述
+    designation：酿造葡萄酒的葡萄来自葡萄园
+    points：葡萄酒评分
+    price：葡萄酒成本
+    province：产出省
+    region_1：产出区域1
+    region_2：产出区域2
+    variety：用于酿造葡萄酒的葡萄种类
+    winery：生产葡萄酒的酿酒厂
